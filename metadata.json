@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Mentor",
+  "description": "AI and agronomist-verified crop health companion for Indian farmers with offline-first operation, local IndexedDB persistence, sync queue, IPM advisory, weather intelligence, and expert diagnosis verification.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
